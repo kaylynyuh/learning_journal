@@ -9,8 +9,7 @@
 
 
 
-```
+
 I learned several new things today and was introduced to important concepts in JS (decisions and loops). Although I felt challenged by the homework assignment I'm excited to dissect the code that I have and try to understand it more. Looking forward to more new things!
 
 
-```
