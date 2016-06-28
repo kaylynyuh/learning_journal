@@ -1,0 +1,3 @@
+#LJ Code 201 Day 10
+===
+What I liked most about class was getting a feel for what a group project feels like and how to collaborate with multiple team members. It was very insightful to learn the team dynamic like assigning tasks, establishing communication methods, as well as working on the problem domain collectively. Additionally, it allowed me a chance to work more with Git and familiarize myself with the process of using it for a group project alongside other people. I also liked the purpose of the assignment as it further enhanced my CSS comprehension.
