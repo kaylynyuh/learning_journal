@@ -1,0 +1,3 @@
+#LJ Code Day 12
+===
+What I liked most about today was doing a walk through "demo-build" of yesterdays lab. I really like when we do this because it perfectly clarifies thought processes and how to go about the problem domain which is what I struggle with the most. We also covered the charts.js library and how to use them appropriately with our code and later execute, or try... to execute that knowledge in lab. Another crazy day, but another day full of new information and learning.
